@@ -10,22 +10,22 @@
   };
 
   // === DATA (from your previous meta-tags.js) ===
-  const META_DATA = {"meta_tags_list":[{"page_url":"https://www.workfraime.com/","title_tag":"College Admission Consulting Irvine | WORKfraime Consulting","meta_description":"College admission consulting Irvine with mentored academic research papers, research topic selection and tailored college strategies for application success."},{"page_url":"https://www.workfraime.com/about","title_tag":"Academic Guidance Irvine | About WORKfraime Consulting","meta_description":"Learn how WORKfraime provides academic guidance in Irvine with tailored college strategies and support for academic research papers and admission success."},{"page_url":"https://www.workfraime.com/services-1","title_tag":"Research Paper Assistance Irvine | WORKfraime Services","meta_description":"Research paper assistance in Irvine, from research topic selection to publish research papers Irvine, plus mentorship programs for college application success."},{"page_url":"https://www.workfraime.com/work-process","title_tag":"Student Mentorship Irvine | WORKfraime Work Process","meta_description":"Student mentorship in Irvine with clear research topic selection, academic guidance and steps to publish research papers for college application success."},{"page_url":"https://www.workfraime.com/contact-8","title_tag":"College Application Success | Contact WORKfraime Irvine","meta_description":"Contact WORKfraime in Irvine for college admission consulting, research paper assistance and student mentorship to boost your college application success."},{"page_url":"https://www.workfraime.com/accessibility-statement","title_tag":"Academic Research Papers | WORKfraime Accessibility","meta_description":"Read WORKfraime’s accessibility statement. Our academic research papers and college admission consulting services are accessible to all Irvine students."}],"keywords":["college admission consulting irvine","research paper assistance irvine","academic research papers","college application success","mentorship programs irvine","research topic selection irvine","student mentorship irvine","academic guidance irvine","publish research papers irvine","tailored college strategies"]};
+  const META_DATA = {"meta_tags_list":[{"page_url":"https://www.workfraime.com/","title_tag":"College Admission Consulting Irvine | WORKfraime Consulting","meta_description":"Mentored academic research papers and tailored college strategies in Irvine. Boost college application success with student mentorship and academic guidance."},{"page_url":"https://www.workfraime.com/about","title_tag":"Academic Guidance Irvine | About WORKfraime Consulting","meta_description":"Learn how WORKfraime in Irvine delivers academic guidance and tailored college strategies through mentored research papers to drive college application success."},{"page_url":"https://www.workfraime.com/services-1","title_tag":"Research Paper Assistance Irvine | WORKfraime Services","meta_description":"Comprehensive research paper assistance in Irvine, from research topic selection to publishing. Flexible mentorship programs to strengthen college applications."},{"page_url":"https://www.workfraime.com/work-process","title_tag":"Research Topic Selection Irvine | WORKfraime Process","meta_description":"Step‑by‑step research topic selection and research paper mentoring in Irvine. Structured path to publish academic research papers and support college success."},{"page_url":"https://www.workfraime.com/contact-8","title_tag":"Student Mentorship Irvine | Contact WORKfraime","meta_description":"Contact WORKfraime in Irvine for student mentorship, academic guidance, and research paper assistance to enhance your college application success."},{"page_url":"https://www.workfraime.com/accessibility-statement","title_tag":"Academic Research Papers | WORKfraime Accessibility","meta_description":"Read WORKfraime’s accessibility statement. We support inclusive access to academic research papers, mentorship programs, and college admission consulting."}],"keywords":["College Admission Consulting Irvine","Research Paper Assistance Irvine","Academic Research Papers","College Application Success","Mentorship Programs Irvine","Research Topic Selection Irvine","Student Mentorship Irvine","Academic Guidance Irvine","Publish Research Papers Irvine","Tailored College Strategies"]};
 
   // === DATA (from your previous LD.js) ===
   const LD_DATA = {
   "@context": "https://schema.org",
-  "@type": "EducationalOrganization",
+  "@type": "Organization",
   "@id": "https://www.workfraime.com/#organization",
   "name": "WORKfraime Consulting LLC",
   "url": "https://www.workfraime.com/",
-  "description": "WORKfraime Consulting empowers students with exceptional college application success through individually mentored academic research papers in selected disciplines. The company offers research topic selection, tailored guidance, customized research pathways, student compensation for part-time research work, and publishing support in professional open-source journals.",
   "logo": "https://static.wixstatic.com/media/7ec975_68d523f1e41c43f8892bab30bdaf1ce2%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7ec975_68d523f1e41c43f8892bab30bdaf1ce2%7Emv2.png",
   "image": [
     "https://static.wixstatic.com/media/7ec975_68d523f1e41c43f8892bab30bdaf1ce2~mv2.png/v1/fill/w_256,h_180,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7ec975_68d523f1e41c43f8892bab30bdaf1ce2~mv2.png",
     "https://static.wixstatic.com/media/7ec975_c7eb7a27af33488099027fc908c61c79~mv2.jpg/v1/fill/w_144,h_88,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7ec975_c7eb7a27af33488099027fc908c61c79~mv2.jpg",
     "https://static.wixstatic.com/media/53c1be07f7ee4118879c07a5cde54219.jpg/v1/fill/w_600,h_399,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/53c1be07f7ee4118879c07a5cde54219.jpg"
   ],
+  "description": "WORKfraime Consulting empowers students with exceptional college application success through individually mentored academic research papers, tailored guidance, and creative publishing solutions that help their applications stand out while building creditworthiness through compensated part-time work.",
   "email": "info@workfraime.com",
   "address": {
     "@type": "PostalAddress",
@@ -34,46 +34,24 @@
     "postalCode": "92620",
     "addressCountry": "US"
   },
+  "areaServed": "US",
   "sameAs": [],
-  "areaServed": {
-    "@type": "Country",
-    "name": "United States"
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "info@workfraime.com",
+    "availableLanguage": "en"
   },
   "foundingDate": "2035",
-  "serviceArea": {
-    "@type": "Country",
-    "name": "United States"
-  },
-  "knowsAbout": [
-    "college admission consulting",
-    "student research paper mentoring",
-    "academic research topic selection",
-    "research paper publishing support",
-    "college application strategy",
-    "AI-supported research paper review"
-  ],
-  "makesOffer": [
-    {
-      "@type": "Offer",
-      "name": "Research Topic Selection",
-      "description": "Individual guidance to refine general academic interests into a focused research project that is relevant for college applications and aligned with the student's personal interests."
-    },
-    {
-      "@type": "Offer",
-      "name": "Research Pathway Mentorship",
-      "description": "Customized research pathways and coaching for highly motivated students, including structured outlines, abstract examples, and ongoing feedback on research paper drafts."
-    },
-    {
-      "@type": "Offer",
-      "name": "Student Compensation Program",
-      "description": "Part-time work-for-hire structure where eligible students receive monthly paychecks for their research effort, supporting credit establishment and professional experience."
-    },
-    {
-      "@type": "Offer",
-      "name": "Research Paper Publishing Support",
-      "description": "Access to open-source, pay-to-publish professional journals across multiple disciplines to increase the credibility of student research in college admission considerations."
+  "serviceType": "Student research paper mentoring for college admissions",
+  "makesOffer": {
+    "@type": "Offer",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Student Research Paper Mentoring and Publishing Support",
+      "description": "Individually mentored academic research paper development for high school students aged 16 and older, including topic selection, structured guidance, compensated work-for-hire arrangements, and optional pay-to-publish journal submission support to strengthen college admission applications."
     }
-  ]
+  }
 };
 
   /* ===== Helpers ===== */
